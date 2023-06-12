@@ -1,8 +1,8 @@
 # Furry
 
-渗透测试常用字典收集
+Penetration testing wordlists
 
-**DNS**
+**Subdomain**
 
 - [subdomains-top1million-5000.txt](DNS/subdomains-top1million-5000.txt)
 - [subdomains-top1million-20000.txt](DNS/subdomains-top1million-20000.txt)
