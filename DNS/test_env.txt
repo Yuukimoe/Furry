@@ -1,0 +1,11 @@
+admin
+alpha
+api
+backend
+beta
+dev
+intra
+prod
+staging
+test
+uat
